@@ -1,4 +1,4 @@
-## Hi, im Brenda 👋
+## Hi, I am Brenda 👋
 
 
 
