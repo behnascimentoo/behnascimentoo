@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, im Brenda 👋
 
 <!--
 **Behguedes/Behguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
