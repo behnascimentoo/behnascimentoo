@@ -9,7 +9,7 @@ Me chamo Brenda Nascimento, tenho 23 anos e sou natural do Rio Grande do Sul. Co
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brendantrabalhos@gmail.com)
 
 ---
-<img align="right" height="180" src="https://i.imgflip.com/a2y2h7.gif"  />
+<img align="right" height="180" src="https://i.imgflip.com/a2y2n4.gif"  />
 
 ### 🤖 Linguagens e Tecnologias
 
