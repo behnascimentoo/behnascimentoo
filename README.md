@@ -53,3 +53,4 @@ Me chamo Brenda Nascimento, tenho 23 anos e sou natural do Rio Grande do Sul. Co
 
 ###
   
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
