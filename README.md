@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-end`**
 
-Me chamo Brenda Nascimento, tenho 23 anos e sou natural do Rio Grande do Sul. Concluí o curso tecnico em informática e atualmente estou cursando Análise e desenvolvimento de sistemas e programação java no geração caldeira.
+Me chamo Brenda Nascimento, sou natural do Rio Grande do Sul. Concluí o curso tecnico em informática e atualmente estou cursando Análise e desenvolvimento de sistemas e programação java no geração caldeira.
 </br>
 
 [![Linkedin](https://img.shields.io/badge/Meu_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-nascimento-b3030b262/)
