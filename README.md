@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Brenda Nascimento
 
-**`Desenvolvedora Back-end`**
+**`Back-end Developer`**
 
-Olá! Sou Brenda Nascimento, estudante de desenvolvimento Back-end com foco em Java e Spring Boot. Atualmente curso Análise e Desenvolvimento de Sistemas na Anhanguera e participo do programa Geração Caldeira, onde estou me especializando em programação Java.
+Hi! I'm Brenda Nascimento, a back-end development student focusing on Java and Spring Boot. I'm currently studying Systems Analysis and Development at Anhanguera University and participating in the Geração Caldeira program, where I'm specializing in Java programming.
 </br>
 
 [![Linkedin](https://img.shields.io/badge/Meu_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-nascimento-b3030b262/)
@@ -11,7 +11,7 @@ Olá! Sou Brenda Nascimento, estudante de desenvolvimento Back-end com foco em J
 ---
 <img align="right" height="180" src="https://i.imgflip.com/a2y2sh.gif"  />
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5" alt="HTML5"  />
   <img width="12" />
@@ -32,7 +32,7 @@ Olá! Sou Brenda Nascimento, estudante de desenvolvimento Back-end com foco em J
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 <p>
   <img 
     align="left" 
@@ -62,7 +62,7 @@ Olá! Sou Brenda Nascimento, estudante de desenvolvimento Back-end com foco em J
 
 ### 📫 Let’s connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/brenda-nascimento-b3030b262/)  
-- 🌐 [Meu portfolio](https://behnascimentoo.github.io/Portafolio/)
+- 🌐 [My portfolio](https://behnascimentoo.github.io/Portafolio/)
 
 ###
 
