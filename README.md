@@ -50,9 +50,17 @@ Olá! Sou Brenda Nascimento, estudante de desenvolvimento Back-end com foco em J
   />
 
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-## 📫 Let’s connect!
-Você pode me encontrar ou entrar em contato comigo aqui:
+### 📫 Let’s connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/brenda-nascimento-b3030b262/)  
 - 🌐 [Meu portfolio](https://behnascimentoo.github.io/Portafolio/)
 
