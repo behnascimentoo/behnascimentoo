@@ -12,6 +12,7 @@ Olá! Sou Brenda Nascimento, estudante de desenvolvimento back-end com foco em J
 <img align="right" height="180" src="https://i.imgflip.com/a2y2sh.gif"  />
 
 ### 🤖 Linguagens e Tecnologias
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5" alt="HTML5"  />
   <img width="12" />
@@ -62,7 +63,7 @@ Olá! Sou Brenda Nascimento, estudante de desenvolvimento back-end com foco em J
 
 ### 📫 Vamos nos conectar!
 - 💼 [LinkedIn](https://www.linkedin.com/in/brenda-nascimento-b3030b262/)  
-- 🌐 [My portfolio](https://behnascimentoo.github.io/Portafolio/)
+- 🌐 [My portfolio](https://behnascimentoo.github.io/Portifolio/behnascimentoo.html)
 
 ###
 
