@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Brenda Nascimento
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedora Back-end`**
 
 Olá! Sou Brenda Nascimento, estudante de desenvolvimento back-end com foco em Java e Spring Boot. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Anhanguera e participando do programa Geração Caldeira, onde estou me especializando em programação Java.
 </br>
