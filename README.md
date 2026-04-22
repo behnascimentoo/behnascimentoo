@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Full Stack`**
 
-Olá! Sou Brenda Nascimento, dev FullStack com foco em Java e Spring Boot. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+Olá! Sou Brenda Nascimento, dev FullStack com foco em Java e Spring Boot. Atualmente, cursando Análise e Desenvolvimento de Sistemas.
 </br>
 
 [![Linkedin](https://img.shields.io/badge/Meu_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-nascimento-b3030b262/)
