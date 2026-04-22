@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Brenda Nascimento
 
-**`Desenvolvedora Back-end`**
+**`Desenvolvedora Full Stack`**
 
-Olá! Sou Brenda Nascimento, estudante de desenvolvimento back-end com foco em Java e Spring Boot. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Anhanguera e participando do programa Geração Caldeira, onde estou me especializando em programação Java.
+Olá! Sou Brenda Nascimento, dev FullStack com foco em Java e Spring Boot. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 </br>
 
 [![Linkedin](https://img.shields.io/badge/Meu_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-nascimento-b3030b262/)
